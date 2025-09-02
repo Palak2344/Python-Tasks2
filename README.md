@@ -23,4 +23,4 @@ This program calculates the sum of all integers from 1 to 50 using a for loop. T
 1. Run the script.
 2. The program will output the sum of integers from 1 to 50.
 
-### Example
+
